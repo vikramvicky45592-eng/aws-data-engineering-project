@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,product,category,quantity,price,order_date,sales_amount
+1001,C001,John Smith,Laptop,Electronics,1.0,900,2026-10-01,900.0
+1003,C003,Bob Johnson,Keyboard,Electronics,1.0,70,2026-10-03,70.0
+1006,C002,Jane Doe,Mouse,Electronics,3.0,25,2026-10-06,75.0
+1007,C005,David Lee,Desk,Furniture,1.0,300,2026-10-07,300.0
+1008,C006,,Chair,Furniture,2.0,150,2026-10-08,300.0
